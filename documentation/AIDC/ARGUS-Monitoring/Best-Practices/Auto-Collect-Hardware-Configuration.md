@@ -6,4 +6,4 @@
 ##操作步骤
 1.	将硬件配置信息插件绑定到用户录入的所有待收集服务器
 2.	一旦数据收集上来，便可通过可视化界面可以查看每一台服务器的硬件配置信息。
-![可视化界面](../../../../../image/AIDC/ARGUS-Monitoring/Client-Connect-1.png)
+![](../../../../image/AIDC/ARGUS-Monitoring/Auto-Collect-1.png)
