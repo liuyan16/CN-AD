@@ -1,15 +1,15 @@
-#�೧��Ӳ�����ϼ��
+#多厂商硬件故障监控
 
-##���ó���
-�û��ķ�����Ʒ�����Զ�����̣���Ҫ����Щ��ͬƷ�Ƶķ�����Ӳ�����м�أ������м��й����������鿴���������
+##适用场景
+用户的服务器品牌来自多个厂商，需要对这些不同品牌的服务器硬件进行监控，并进行集中管理，批量查看故障情况。
 
-##��������
-1.�û��ڱ���صķ�����BMC��������־�ϱ���ַ
-2.�鿴������־
-![������־](../../../../image/AIDC/ARGUS-Monitoring/Client-Connect-2.png)
-3.���ù��ϼ��&�澯֪ͨ����ѡ��
-![����](../../../../image/AIDC/ARGUS-Monitoring/Client-Connect-3.png)
-4.�鿴&�༭�澯����
-![����](../../../../image/AIDC/ARGUS-Monitoring/Client-Connect-4.png)
-5.�鿴�쳣�豸��Ϣ
-![�쳣�豸��Ϣչʾ](../../../../image/AIDC/ARGUS-Monitoring/Client-Connect-5.png)
+##操作步骤
+1.用户在被监控的服务器BMC上配置日志上报地址
+2.查看故障日志
+![故障日志](../../../../image/AIDC/ARGUS-Monitoring/Auto-Connect-2.png)
+3.配置故障监控&告警通知（可选）
+![界面](../../../../image/AIDC/ARGUS-Monitoring/Auto-Connect-3.png)
+4.查看&编辑告警规则
+![规则](../../../../image/AIDC/ARGUS-Monitoring/Auto-Connect-4.png)
+5.查看异常设备信息
+![异常设备信息展示](../../../../image/AIDC/ARGUS-Monitoring/Auto-Connect-5.png)
